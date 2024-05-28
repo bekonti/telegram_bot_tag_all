@@ -1,0 +1,5 @@
+server:
+  port: 8088
+bot:
+  name: ${bot_name}
+  token: ${bot_token}
